@@ -20,6 +20,11 @@ body{
     mix-blend-mode: normal;
 }
 
+a{
+    color: white;
+    text-decoration: none;
+}
+
 .center{
     width: 100%;
     display: grid;
